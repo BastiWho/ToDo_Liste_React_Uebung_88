@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+Body{
+  text-align: center;
+  background-color: #fffcfd;
+}
+
+.title, .input{
+  color: #00314c  ;
+  text-align: center;
+  align-content: center;
+}
+
+.input{
+  font-size: large;
+}
